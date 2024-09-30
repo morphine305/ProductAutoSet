@@ -11,8 +11,8 @@
 
 ### 主畫面
 
-* 產品名稱將從**product_rev**取得，重複就忽略
-* 畫面類似Product Rev Tool 料號會有下拉選單並帶入資料庫最新資料
+* 產品名稱將從**ProductAutoSet**取得，重複就忽略
+* 畫面類似ProductAutoSet Tool 料號會有下拉選單並帶入資料庫最新資料
 * 沒有新增選項；有寫入選項
 
 ### 查詢
